@@ -1,4 +1,4 @@
-# Spam_Filtering_Thesis
+# Spam Filtering Thesis
 
 - Utilized machine translation to convert English datasets into Greek.
 - Performed data cleaning, preprocessing and feature extraction of unstructured text data using Python.
